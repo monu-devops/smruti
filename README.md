@@ -1,0 +1,2 @@
+# smruti
+My awesome codebase
